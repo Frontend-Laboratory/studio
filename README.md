@@ -17,14 +17,13 @@
 [![Issues][issues-shield]][issues-url]
 [![Apache License][license-shield]][license-url] -->
 
+![Screenshot from 2024-07-12 00-46-57](https://github.com/user-attachments/assets/1501ce20-0863-43db-9f4d-0572f4aa9fba)
 
 [![Discord][discord-shield]][discord-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 [![Twitter][twitter-shield]][twitter-url]
 
 
-
-[![Onlook Screen Shot][product-screenshot]](https://youtu.be/RSX_3EaO5eU)
 
 <div align="center">
 <h3 align="center">Onlook</h3>
